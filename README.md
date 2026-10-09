@@ -1,5 +1,7 @@
 # Supertonic 3 vs Piper — TTS speed bench
 
+**English** | [Hinglish](README.hinglish.md)
+
 A small test bench that runs the same text through two local text-to-speech models,
 [Supertonic 3](https://github.com/supertone-inc/supertonic) and
 [Piper](https://github.com/OHF-Voice/piper1-gpl), and shows which one generates audio faster.
@@ -104,3 +106,8 @@ count as load time.
 | `tts_bench.py` | The bench: engine classes, timing, report |
 | `tts_ui.py` | Tkinter UI on top of the bench |
 | `supertonic_tts.py` | Simple Supertonic 3 text-to-WAV script |
+
+## License
+
+The code in this repo is under the [MIT License](LICENSE). Supertonic and Piper have their
+own licenses (Piper is GPL-3.0), so check those before using them.
