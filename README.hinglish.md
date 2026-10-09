@@ -1,3 +1,5 @@
+![Supertonic 3 vs Piper](docs/banner.png)
+
 # Supertonic 3 vs Piper — TTS speed bench
 
 [English](README.md) | **Hinglish**
