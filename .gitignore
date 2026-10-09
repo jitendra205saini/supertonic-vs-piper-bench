@@ -1,0 +1,4 @@
+piper_voices/
+bench_output/
+__pycache__/
+*.wav
